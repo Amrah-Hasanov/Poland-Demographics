@@ -1,1 +1,1 @@
-In this repository I will be to sharing my data visualization projects.
+In this repository I will be to sharing my Tableau data visualization projects.
