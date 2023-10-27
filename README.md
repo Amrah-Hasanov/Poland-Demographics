@@ -1,1 +1,1 @@
-In this repository I will be to sharing my Tableau data visualization projects.
+This repository only contaions the pdf copy of dashboard and link to actual dashboard.
